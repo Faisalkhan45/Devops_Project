@@ -10,5 +10,5 @@ This project demonstrates the deployment of a multi-container application using 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your_username>/multi-container-docker-kubernetes.git](https://github.com/Faisalkhan45/Devops_Project/tree/master
+git clone https://github.com/Faisalkhan45/Devops_Project/tree/master
 cd multi-container-docker-kubernetes
